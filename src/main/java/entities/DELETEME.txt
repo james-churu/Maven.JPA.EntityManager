@@ -1,0 +1,9 @@
+insert into pet (idNum , name , owner , species) values (6 , "pet 6", "owner 6", "pet type 6");
+
+
+insert into people ( peopleID , name , age , petID ) values ( 1 , "person 1" , 10 , 1);
+insert into people ( peopleID , name , age , petID ) values ( 2 , "person 2" , 20 , 2);
+insert into people ( peopleID , name , age , petID ) values ( 3 , "person 3" , 30 , 3);
+insert into people ( peopleID , name , age , petID ) values ( 4 , "person 4" , 40 , 4);
+insert into people ( peopleID , name , age , petID ) values ( 5 , "person 5" , 50 , 5);
+insert into people ( peopleID , name , age , petID ) values ( 6 , "person 6" , 60 , 6);
